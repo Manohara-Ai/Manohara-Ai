@@ -1,5 +1,5 @@
 # **Manohara**  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;AI:+Where+Curiosity+Meets+Creation!!;Coding+to+Compete,+Creating+to+Innovate!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;AI:+Where+Curiosity+meets+Creation!!;Coding+to+Compete,+Creating+to+Innovate!!!)](https://git.io/typing-svg)
 
 ---
 ## **About Me**  
@@ -48,15 +48,15 @@
 <table>
   <tr>
     <th><strong>Project Name</strong></th>
-    <th><strong>⭐ Stars</strong></th>
+    <th><strong>Fav-Meter</strong></th>
     <th><strong>Description</strong></th>
     <th><strong>Technologies</strong></th>
   </tr>
   <tr>
-    <td><strong>Anomaly Detection Bottles</strong></td>
+    <td><strong>Star_Cluster_Analysis_NGC1300</strong></td>
     <td>⭐⭐⭐</td>
-    <td>Detect anomalies in bottles using image analysis</td>
-    <td>TensorFlow, OpenCV</td>
+    <td>Star Cluster Analysis in nearby Galaxies</td>
+    <td>Astropy, Pandas, Matplotlib</td>
   </tr>
   <tr>
     <td><strong>Object Recognition Chatbot</strong></td>
