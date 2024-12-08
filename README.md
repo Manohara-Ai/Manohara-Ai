@@ -28,19 +28,19 @@
 ---
 
 ## **📈 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical)  
 
 ---
 
 ## **🌌 Currently Listening To**  
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)  
+[![Spotify](https://novatorem-Manohara-Ai.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)  
 
 ---
 
 ## **📫 Get in Touch**  
 - **Email**: [manohara01012005@gmail.com](mailto:manohara01012005@gmail.com)  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **GitHub**: [Manohara-Ai](https://github.com/Manohara-Ai)  
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
 
 ---
@@ -51,7 +51,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Building+the+Future+with+AI!;Exploring+the+Universe+Through+Data)](https://git.io/typing-svg)
 
 ### **Visitor Count**  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Manohara-Ai.Manohara-Ai)  
 
 ---
 
