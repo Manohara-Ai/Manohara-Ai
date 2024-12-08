@@ -53,22 +53,22 @@
     <th><strong>Technologies</strong></th>
   </tr>
   <tr>
-    <td><strong>[Star_Cluster_Analysis_NGC1300](https://github.com/Manohara-Ai/Star_Cluster_Analysis_NGC1300)</strong></td>
+    <td><strong>Snake-Q-Learning</strong></td>
+    <td>⭐⭐⭐</td>
+    <td>An experimental Snake game using a Deep Q-Network agent</td>
+    <td>PyTorch, PyGame</td>
+  </tr>
+  <tr>
+    <td><strong>Star_Cluster_Analysis_NGC1300</strong></td>
     <td>⭐⭐⭐</td>
     <td>Star Cluster Analysis in nearby Galaxies</td>
     <td>Astropy, Pandas, Matplotlib</td>
   </tr>
   <tr>
-    <td><strong>Object Recognition Chatbot</strong></td>
+    <td><strong>First_Ros_Bot</strong></td>
     <td>⭐⭐⭐</td>
-    <td>Real-time object recognition via a chatbot</td>
-    <td>PyTorch, NLP</td>
-  </tr>
-  <tr>
-    <td><strong>Star Cluster Analysis</strong></td>
-    <td>⭐⭐⭐</td>
-    <td>Classifying galactic star clusters</td>
-    <td>AstroPy, Matplotlib</td>
+    <td>My first ros bot</td>
+    <td>ROS, Gazebo, Python</td>
   </tr>
 </table>
 
