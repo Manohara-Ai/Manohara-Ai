@@ -18,11 +18,14 @@
 
 ---
 ### **🔢 Profile Stats**  
-![Hits](https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <span>Profile Stats</span>
+    <img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7" alt="Hits" />
+</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" style="flex: 1; margin-right: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical" alt="Top Languages" style="flex: 1; margin-left: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" style="flex: 1;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical" alt="Top Languages" style="flex: 1; text-align: right;" />
 </div>
 
 <br>
@@ -32,6 +35,7 @@
         <img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical" alt="GitHub Streak" />
     </a>
 </div>
+
 
 ---
 ## **🔬 Research & Projects**  
