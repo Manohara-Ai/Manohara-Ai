@@ -18,14 +18,11 @@
   - Astronomy: Enthusiastic about star cluster analysis, astrophysics research, and staying updated on the latest astronomical discoveries.  
 
 ---
-### **🔢 Profile Stats**  
+### **🔢 Profile Stats** ![Hits](https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical)
 
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical)](https://git.io/streak-stats) 
-
-### **Visitor Count**  
-![Hits](https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7)
 
 ---
 ## **🔬 Research & Projects**  
@@ -42,13 +39,6 @@
 | **AstroDeepVision**               | Deep learning for galaxies  | PyTorch       |  
 | **CyberGuard**                    | AI for threat detection     | TensorFlow    |  
 | **QuantumBot**                    | Chatbot for quantum physics | Spacy, OpenAI |  
-
----
-## **Additional Highlights**  
-
-### **Typing Animation**  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Building+the+Future+with+AI!;Exploring+the+Universe+Through+Data)](https://git.io/typing-svg)
-
 
 ---
 ## **📫 Get in Touch**  
