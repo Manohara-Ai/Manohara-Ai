@@ -21,14 +21,14 @@ Exploring the intersections of **Artificial Intelligence**, **Machine Learning**
 <table width="100%">
   <tr>
     <td>Visitor Count</td>
-    <td align="right"><img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7" alt="Hits" /></td>
+    <td align="right"><img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7&animated=true" alt="Hits" /></td>
   </tr>
 </table>
 
 <table width="100%">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" /></td>
-    <td align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical&animated=true" alt="GitHub Stats" /></td>
+    <td align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical&animated=true" alt="Top Languages" /></td>
   </tr>
 </table>
 
@@ -36,13 +36,11 @@ Exploring the intersections of **Artificial Intelligence**, **Machine Learning**
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical&animated=true" alt="GitHub Streak" />
     </a>
 </div>
 
 ---
----
-
 ## **Research & Projects**  
 
 <table>
