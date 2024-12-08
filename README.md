@@ -3,13 +3,13 @@
 
 ---
 ## **About Me**  
-🎓 **AIML Enthusiast | Competitive Coding | Algorithm Alchemist | Stargazer**  
-📍 Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Astronomy**.  
-- **📖 Academic Background**:  
+**AIML Enthusiast | Competitive Coding | Algorithm Alchemist | Stargazer**  
+Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Astronomy**.  
+- **Academic Background**:  
   Pursuing a BE in **Computer Science Engineering** at **R V College of Engineering**.  
   Technical Lead at **dhRuVa** focusing on **technical growth of the astrophysics club**.  
 
-- **💻 Professional Interests**:  
+- **Professional Interests**:  
   - Artificial Intelligence and Machine Learning: Passionate about developing innovative AI/ML models, reinforcement learning, and deep learning techniques.
   - Competitive Coding: Enjoys problem-solving and coding challenges, continuously improving skills on platforms like Codeforces.  
   - Robotics: Interested in building and programming robots, especially those involving Raspberry Pi and autonomous control.
@@ -17,7 +17,7 @@
   - Astronomy: Enthusiastic about star cluster analysis, astrophysics research, and staying updated on the latest astronomical discoveries.  
 
 ---
-### **🔢 Profile Stats**  
+### **Profile Stats**  
 <table width="100%">
   <tr>
     <td>Visitor Count</td>
@@ -47,7 +47,7 @@
 
 <table>
   <tr>
-    <th><strong>Project Name</strong></th>
+    <th><strong>Repository Name</strong></th>
     <th><strong>Fav-Meter</strong></th>
     <th><strong>Description</strong></th>
     <th><strong>Technologies</strong></th>
@@ -67,35 +67,27 @@
   <tr>
     <td><strong>First_Ros_Bot</strong></td>
     <td>⭐⭐⭐</td>
-    <td>My first ros bot</td>
+    <td>My first autonomous ros bot</td>
     <td>ROS, Gazebo, Python</td>
   </tr>
 </table>
 
 <hr>
 
-### **🚀 Futuristic Project Badges**  
+### **Future Project Badges**  
 
 <table>
   <tr>
     <th><strong>Project Title</strong></th>
     <th><strong>Description</strong></th>
-    <th><strong>💡 Technology</strong></th>
   </tr>
   <tr>
-    <td><strong>AstroDeepVision</strong></td>
-    <td>Deep learning for galaxy image analysis</td>
-    <td>PyTorch</td>
+    <td><strong>Generative AI for Authentication</strong></td>
+    <td>Exploring the use of GANs to replace traditional captchas for secure and efficient user authentication methods.</td>
   </tr>
   <tr>
-    <td><strong>CyberGuard</strong></td>
-    <td>AI-driven cybersecurity threat detection</td>
-    <td>TensorFlow</td>
-  </tr>
-  <tr>
-    <td><strong>QuantumBot</strong></td>
-    <td>Chatbot for quantum physics education</td>
-    <td>Spacy, OpenAI</td>
+    <td><strong>DQN for Pac-Man Game</strong></td>
+    <td>Implementing a DQN to enhance the performance of Pac-Man with a potential multiple agent setup to improve learning efficiency.</td>
   </tr>
 </table>
 
