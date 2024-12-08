@@ -53,7 +53,7 @@
     <th><strong>Technologies</strong></th>
   </tr>
   <tr>
-    <td><strong>Star_Cluster_Analysis_NGC1300</strong></td>
+    <td><strong>[Star_Cluster_Analysis_NGC1300](https://github.com/Manohara-Ai/Star_Cluster_Analysis_NGC1300)</strong></td>
     <td>⭐⭐⭐</td>
     <td>Star Cluster Analysis in nearby Galaxies</td>
     <td>Astropy, Pandas, Matplotlib</td>
