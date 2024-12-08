@@ -19,12 +19,12 @@
 
 ---
 ### **🔢 Profile Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical)
 
 
 
 ### **🔥 Streaks**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical)](https://git.io/streak-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical)](https://git.io/streak-stats)
 
 ---
 ## **🔬 Research & Projects**  
