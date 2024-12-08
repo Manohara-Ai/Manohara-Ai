@@ -44,4 +44,5 @@
 ## **📫 Get in Touch**  
 - **Email**: [manohara01012005@gmail.com](mailto:manohara01012005@gmail.com)  
 - **GitHub**: [Manohara-Ai](https://github.com/Manohara-Ai)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/b-m-manohara-54044a295)  
+- **LinkedIn**: [B M Manohara](https://www.linkedin.com/in/b-m-manohara-54044a295)
+- **Personal Website**: [B M Manohara](https://manohara-omega.vercel.app/index.html)
