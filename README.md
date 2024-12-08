@@ -17,13 +17,15 @@
   - Astronomy: Enthusiastic about star cluster analysis, astrophysics research, and staying updated on the latest astronomical discoveries.  
 
 ---
-### **🔢 Profile Stats**  
+### **🔢 Profile Stats**
 <table width="100%">
   <tr>
     <td>Profile Stats</td>
     <td align="right"><img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7" alt="Hits" /></td>
   </tr>
 </table>
+
+<hr>
 
 <table width="100%">
   <tr>
@@ -32,7 +34,7 @@
   </tr>
 </table>
 
-<br>
+<hr>
 
 <div align="center">
     <a href="https://git.io/streak-stats">
