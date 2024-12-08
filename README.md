@@ -43,7 +43,7 @@ Exploring the intersections of **Artificial Intelligence**, **Machine Learning**
 ---
 ---
 
-## **🔬 Research & Projects**  
+## **Research & Projects**  
 
 <table>
   <tr>
