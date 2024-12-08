@@ -1,10 +1,10 @@
 # **Manohara**  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;AI:+Where+Curiosity+Meets+Creation!!;Coding+to+Compete,+Creating+to+Innovate!!!)](https://git.io/typing-svg)
-🎓 **AIML Enthusiast | Competitive Coding | Algorithm Alchemist | Stargazer**  
-📍 Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Astronomy**.  
 
 ---
 ## **About Me**  
+🎓 **AIML Enthusiast | Competitive Coding | Algorithm Alchemist | Stargazer**  
+📍 Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Astronomy**.  
 - **📖 Academic Background**:  
   Pursuing a BE in **Computer Science Engineering** at **R V College of Engineering**.  
   Technical Lead at **dhRuVa** focusing on **technical growth of the astrophysics club**.  
