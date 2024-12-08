@@ -1,36 +1,78 @@
-# 👋 Hello, I'm Manohara!
+# **Manohara**  
+🎓 **AI Researcher | Developer | Astronomy Enthusiast**  
+📍 Exploring the intersections of **Machine Learning**, **Deep Learning**, **Cybersecurity**, and **Astrophysics**.  
 
-I'm a passionate developer, AI enthusiast, and researcher with a focus on machine learning, deep learning, and astronomy. My work revolves around building intelligent systems that solve complex problems across various domains, from astrophysics to cybersecurity.
-
-## 🧠 What I Do
-- **AI/ML Research**: I explore the integration of machine learning with real-world applications, such as anomaly detection, object recognition, and intelligent systems for cybersecurity.
-- **Astrophysics Enthusiast**: I have a keen interest in studying star clusters and galaxies, particularly in analyzing the data and visualizing the structures of the universe.
-- **AI Chatbots**: I'm working on developing chatbots that can recognize objects in real-time and interact with users by providing insightful descriptions.
-- **Cybersecurity + AI**: I aim to leverage machine learning in cybersecurity to create more intelligent and adaptive hacking systems.
-
-## 🛠️ Skills & Technologies
-- **Languages**: Python, C++
-- **Frameworks**: PyTorch, TensorFlow
-- **Libraries**: OpenCV, Matplotlib, AstroPy
-- **Tools**: Git, Docker, Jupyter Notebooks
-- **Data Processing**: Data pre-processing and analysis using Pandas, NumPy, and SciPy
-- **Modeling**: CNNs, RNNs, and transformer-based architectures
-
-## 🚀 Current Projects
-- **Anomalies Detection in Beverage Bottles**: A project focused on detecting anomalies in bottle images, particularly identifying bottles without caps using CNN architectures.
-- **Object Recognition Chatbot**: Building a chatbot that identifies real-world objects and provides conversational feedback.
-- **Star Cluster Analysis in Antenna Galaxies**: Working on classifying star clusters by their age using data from Antenna Galaxies.
-
-## 🌟 What Drives Me
-I thrive on tackling challenging problems and continuously improving my skills to create impactful solutions. Whether it's fine-tuning a model or solving a puzzle in astronomical data, I’m always eager to learn and apply new techniques.
-
-## 📚 Learning
-I'm constantly evolving my knowledge base, diving deeper into:
-- Advanced machine learning techniques
-- AI in cybersecurity
-- Astronomy and astrophysics
-
-## 📫 Let's Connect!
-- **Email**: manohara01012005@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;Passionate+about+AI+and+Astrophysics;Researching+and+Building+Intelligent+Systems)](https://git.io/typing-svg)
 
 ---
+
+## **About Me**  
+- **📖 Academic Background**:  
+  Pursuing a Ph.D. in **[Your Field]** at **[Your University]** (if applicable).  
+  Researcher at **[Your Lab or Organization]** focusing on **[Your Research Focus Area]**.  
+
+- **💻 Professional Interests**:  
+  - Developing AI-driven solutions for **real-time object recognition** and **anomaly detection**.  
+  - Using **deep learning** to analyze **astronomical data** for star cluster classification.  
+  - Merging AI with **cybersecurity** to create adaptive, intelligent systems.  
+
+---
+
+## **🔬 Research & Projects**  
+| Project Name                  | ⭐ Stars | Description                          | Technologies         |  
+|-------------------------------|---------|--------------------------------------|----------------------|  
+| **Anomaly Detection Bottles** | ⭐⭐⭐    | Detect anomalies in bottles          | TensorFlow, OpenCV   |  
+| **Object Recognition Chatbot**| ⭐⭐⭐    | Interactive real-time object bot     | PyTorch, NLP         |  
+| **Star Cluster Analysis**     | ⭐⭐⭐    | Galactic star classification         | AstroPy, Matplotlib  |  
+
+---
+
+## **📈 GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+
+---
+
+## **🌌 Currently Listening To**  
+[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)  
+
+---
+
+## **📫 Get in Touch**  
+- **Email**: [manohara01012005@gmail.com](mailto:manohara01012005@gmail.com)  
+- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)  
+
+---
+
+## **Dynamic Features**  
+
+### **Typing Animation**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Building+the+Future+with+AI!;Exploring+the+Universe+Through+Data)](https://git.io/typing-svg)
+
+### **Visitor Count**  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)  
+
+---
+
+## **🚀 Highlights**  
+
+### **Machine Learning and AI**  
+| Title                       | ⭐ Stars | Technologies     |  
+|-----------------------------|---------|------------------|  
+| **Beverage Anomaly Model**  | ⭐⭐⭐    | TensorFlow, OpenCV  |  
+| **Galaxy Age Estimator**    | ⭐⭐⭐    | AstroPy, Matplotlib |  
+
+### **Developer Tools**  
+| Title                     | ⭐ Stars | Technologies     |  
+|---------------------------|---------|------------------|  
+| **Cloud File Manager**    | ⭐⭐⭐    | AWS, S3, Python |  
+| **YAML Utility**          | ⭐⭐⭐    | YAML, MySQL     |  
+
+---
+
+### **Interactive Stats & Highlights**  
+- Dynamic GitHub Stats & Top Languages via **[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)**.  
+- Spotify Listening Activity via **[novatorem](https://github.com/novatorem)**.  
+- Typing Animation via **[Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)**.  
+
