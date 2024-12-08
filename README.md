@@ -18,24 +18,27 @@
 
 ---
 ### **🔢 Profile Stats**  
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <span>Profile Stats</span>
-    <img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7" alt="Hits" />
-</div>
+<table width="100%">
+  <tr>
+    <td>Profile Stats</td>
+    <td align="right"><img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7" alt="Hits" /></td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" style="flex: 1;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical" alt="Top Languages" style="flex: 1; text-align: right;" />
-</div>
+<table width="100%">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" /></td>
+    <td align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical" alt="GitHub Streak" />
     </a>
 </div>
-
 
 ---
 ## **🔬 Research & Projects**  
