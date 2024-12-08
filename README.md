@@ -2,19 +2,21 @@
 🎓 **AIML Enthusiast | Competitive Coding | Algorithm Alchemist | Stargazer**  
 📍 Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Astronomy**.  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;AI:+Where+Curiosity+Meets+Creation;Coding+to+Compete,+Creating+to+Innovate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;AI:+Where+Curiosity+Meets+Creation!!;Coding+to+Compete,+Creating+to+Innovate!!!)](https://git.io/typing-svg)
 
 ---
 
 ## **About Me**  
 - **📖 Academic Background**:  
-  Pursuing a Ph.D. in **[Your Field]** at **[Your University]**.  
-  Researcher at **[Your Lab or Organization]** focusing on **[Your Research Focus Area]**.  
+  Pursuing a BE in **Computer Science Engineering** at **R V College of Engineering**.  
+  Technical Lead at **dhRuVa** focusing on **technical growth of the astrophysics club**.  
 
 - **💻 Professional Interests**:  
-  - Real-time object recognition systems.  
-  - Deep learning for astronomical data classification.  
-  - AI-powered cybersecurity frameworks.  
+  - Artificial Intelligence and Machine Learning: Passionate about developing innovative AI/ML models, reinforcement learning, and deep learning techniques.
+  - Competitive Coding: Enjoys problem-solving and coding challenges, continuously improving skills on platforms like Codeforces.  
+  - Robotics: Interested in building and programming robots, especially those involving Raspberry Pi and autonomous control.
+  - Ethical Hacking: Enthusiastic about cybersecurity, penetration testing, and understanding vulnerabilities in systems for ethical hacking purposes.
+  - Astronomy: Enthusiastic about star cluster analysis, astrophysics research, and staying updated on the latest astronomical discoveries.  
 
 ---
 
