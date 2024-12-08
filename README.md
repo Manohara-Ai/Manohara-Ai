@@ -20,7 +20,7 @@
 ### **🔢 Profile Stats**  
 <table width="100%">
   <tr>
-    <td>Profile Stats</td>
+    <td>Visitor Count</td>
     <td align="right"><img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7" alt="Hits" /></td>
   </tr>
 </table>
@@ -41,20 +41,65 @@
 </div>
 
 ---
-## **🔬 Research & Projects**  
-| Project Name                  | ⭐ Stars | Description                          | Technologies         |  
-|-------------------------------|---------|--------------------------------------|----------------------|  
-| **Anomaly Detection Bottles** | ⭐⭐⭐    | Detect anomalies in bottles          | TensorFlow, OpenCV   |  
-| **Object Recognition Chatbot**| ⭐⭐⭐    | Interactive real-time object bot     | PyTorch, NLP         |  
-| **Star Cluster Analysis**     | ⭐⭐⭐    | Galactic star classification         | AstroPy, Matplotlib  |  
-
 ---
-### **Futuristic Project Badges**  
-| Project Title                     | 🚀 Description               | 💡 Technology |  
-|-----------------------------------|-----------------------------|---------------|  
-| **AstroDeepVision**               | Deep learning for galaxies  | PyTorch       |  
-| **CyberGuard**                    | AI for threat detection     | TensorFlow    |  
-| **QuantumBot**                    | Chatbot for quantum physics | Spacy, OpenAI |  
+
+## **🔬 Research & Projects**  
+
+<table>
+  <tr>
+    <th><strong>Project Name</strong></th>
+    <th><strong>⭐ Stars</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>Technologies</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Anomaly Detection Bottles</strong></td>
+    <td>⭐⭐⭐</td>
+    <td>Detect anomalies in bottles using image analysis</td>
+    <td>TensorFlow, OpenCV</td>
+  </tr>
+  <tr>
+    <td><strong>Object Recognition Chatbot</strong></td>
+    <td>⭐⭐⭐</td>
+    <td>Real-time object recognition via a chatbot</td>
+    <td>PyTorch, NLP</td>
+  </tr>
+  <tr>
+    <td><strong>Star Cluster Analysis</strong></td>
+    <td>⭐⭐⭐</td>
+    <td>Classifying galactic star clusters</td>
+    <td>AstroPy, Matplotlib</td>
+  </tr>
+</table>
+
+<hr>
+
+### **🚀 Futuristic Project Badges**  
+
+<table>
+  <tr>
+    <th><strong>Project Title</strong></th>
+    <th><strong>Description</strong></th>
+    <th><strong>💡 Technology</strong></th>
+  </tr>
+  <tr>
+    <td><strong>AstroDeepVision</strong></td>
+    <td>Deep learning for galaxy image analysis</td>
+    <td>PyTorch</td>
+  </tr>
+  <tr>
+    <td><strong>CyberGuard</strong></td>
+    <td>AI-driven cybersecurity threat detection</td>
+    <td>TensorFlow</td>
+  </tr>
+  <tr>
+    <td><strong>QuantumBot</strong></td>
+    <td>Chatbot for quantum physics education</td>
+    <td>Spacy, OpenAI</td>
+  </tr>
+</table>
+
+<hr>
 
 ---
 ## **📫 Get in Touch**  
