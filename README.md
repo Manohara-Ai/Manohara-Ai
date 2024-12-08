@@ -66,7 +66,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Building+the+Future+with+AI!;Exploring+the+Universe+Through+Data)](https://git.io/typing-svg)
 
 ### **Visitor Count**  
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Manohara-Ai.Manohara-Ai)
+![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Manohara-Ai)
 
 ---
 
