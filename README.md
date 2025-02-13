@@ -51,19 +51,19 @@ Exploring the intersections of **Artificial Intelligence**, **Machine Learning**
     <th><strong>Technologies</strong></th>
   </tr>
   <tr>
-    <td><strong>Project_Mahoraga</strong></td>
+    <td><strong><a href="https://github.com/yourusername/Project_Mahoraga](https://github.com/Manohara-Ai/Project_Mahoraga" target="_blank">Project_Mahoraga</a></strong></td>
     <td>⭐⭐⭐</td>
     <td>Advancing game performance through advanced AI algorithms and reinforcement learning for unmatched efficiency and adaptability. </td>
     <td>PyTorch, Python, Html, Js, Css</td>
   </tr>
   <tr>
-    <td><strong>Star_Cluster_Analysis_NGC1300</strong></td>
+    <td><strong><a href="https://github.com/Manohara-Ai/Star_Cluster_Analysis_NGC1300" target="_blank">Star_Cluster_Analysis_NGC1300</a></strong></td>
     <td>⭐⭐⭐</td>
     <td>Star Cluster Analysis in nearby Galaxies</td>
     <td>Python, Astropy, Pandas, Matplotlib</td>
   </tr>
   <tr>
-    <td><strong>VorteX</strong></td>
+    <td><strong><a href="https://github.com/yourusername/VorteX](https://github.com/Manohara-Ai/VorteX" target="_blank">VorteX</a></strong></td>
     <td>⭐⭐⭐</td>
     <td>VorteX is a versatile, multi-functional robot designed to adapt to various tasks, from navigation to advanced processing. Built with a focus on speed, intelligence and flexibility.</td>
     <td>ROS, Gazebo, Python</td>
