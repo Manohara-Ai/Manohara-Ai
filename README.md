@@ -51,21 +51,21 @@ Exploring the intersections of **Artificial Intelligence**, **Machine Learning**
     <th><strong>Technologies</strong></th>
   </tr>
   <tr>
-    <td><strong>Snake-Q-Learning</strong></td>
+    <td><strong>Project_Mahoraga</strong></td>
     <td>⭐⭐⭐</td>
-    <td>An experimental Snake game using a Deep Q-Network agent</td>
-    <td>PyTorch, PyGame</td>
+    <td>Advancing game performance through advanced AI algorithms and reinforcement learning for unmatched efficiency and adaptability. </td>
+    <td>PyTorch, Python, Html, Js, Css</td>
   </tr>
   <tr>
     <td><strong>Star_Cluster_Analysis_NGC1300</strong></td>
     <td>⭐⭐⭐</td>
     <td>Star Cluster Analysis in nearby Galaxies</td>
-    <td>Astropy, Pandas, Matplotlib</td>
+    <td>Python, Astropy, Pandas, Matplotlib</td>
   </tr>
   <tr>
-    <td><strong>First_Ros_Bot</strong></td>
+    <td><strong>VorteX</strong></td>
     <td>⭐⭐⭐</td>
-    <td>My first autonomous ros bot</td>
+    <td>VorteX is a versatile, multi-functional robot designed to adapt to various tasks, from navigation to advanced processing. Built with a focus on speed, intelligence and flexibility.</td>
     <td>ROS, Gazebo, Python</td>
   </tr>
 </table>
