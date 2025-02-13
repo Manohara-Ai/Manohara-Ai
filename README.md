@@ -80,7 +80,7 @@ Exploring the intersections of **Artificial Intelligence**, **Machine Learning**
     <th><strong>Description</strong></th>
   </tr>
   <tr>
-    <td><strong>IntelliTraffic: AI-Powered Traffic Optimization</strong></td>
+    <td><strong>AI-Powered Traffic Optimization</strong></td>
     <td>Developing an AI-driven traffic control system using real-time data from vehicle nodes. The system leverages time-series modeling to predict congestion patterns and optimize traffic flow       efficiently.</td>
   </tr>
   <tr>
