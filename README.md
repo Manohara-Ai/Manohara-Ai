@@ -6,38 +6,34 @@
 **AIML Enthusiast | Competitive Coding | Algorithm Alchemist | Stargazer**  
 Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Astronomy**.  
 - **Academic Background**:  
-  Pursuing a BE in **Computer Science Engineering** at **R V College of Engineering**.  
-  Technical Lead at **dhRuVa** focusing on **technical growth of the astrophysics club**.  
+  Pursuing a BE in **Computer Science Engineering** at **R V College of Engineering**.   
 
 - **Professional Interests**:  
-  - Artificial Intelligence and Machine Learning: Passionate about developing innovative AI/ML models, reinforcement learning, and deep learning techniques.
-  - Competitive Coding: Enjoys problem-solving and coding challenges, continuously improving skills on platforms like Codeforces.  
-  - Robotics: Interested in building and programming robots, especially those involving Raspberry Pi and autonomous control.
-  - Ethical Hacking: Enthusiastic about cybersecurity, penetration testing, and understanding vulnerabilities in systems for ethical hacking purposes.
-  - Astronomy: Enthusiastic about star cluster analysis, astrophysics research, and staying updated on the latest astronomical discoveries.  
+I'm interested in AI, ML, robotics, and embedded systems, and I enjoy working on systems that can learn, adapt, and solve real-world problems. I believe in understanding things from the ground up and continuously improving through hands-on learning. 
 
 ---
 ### **Profile Stats**  
-<table width="100%">
-  <tr>
-    <td>Visitor Count</td>
-    <td align="right"><img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7&animated=true" alt="Hits" /></td>
-  </tr>
-</table>
 
-<table width="100%">
+<div align="center">
+
+**👀 Profile Views**  
+<img src="https://hits.sh/github.com/Manohara-Ai/hits.svg?style=flat-square&label=Profile%20Views&color=36BCF7&animated=true" alt="Hits" />
+
+<br>
+
+**📊 GitHub Stats & Top Languages**  
+<table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical&animated=true" alt="GitHub Stats" /></td>
-    <td align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical&animated=true" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical&animated=true" alt="Top Languages" /></td>
   </tr>
 </table>
 
 <br>
 
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical&animated=true" alt="GitHub Streak" />
-    </a>
+**🔥 GitHub Streak**  
+<img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical&animated=true" alt="GitHub Streak" />
+
 </div>
 
 <hr>
