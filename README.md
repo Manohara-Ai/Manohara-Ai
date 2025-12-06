@@ -4,8 +4,8 @@
 
 ---
 ## **About Me**  
-**AIML Enthusiast | Competitive Coding | Algorithm Alchemist | Stargazer**  
-Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, **Cybersecurity**, and **Astronomy**.  
+**AIML | Data Science | Embedded & Robotics | Stargazer**  
+Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, and **Robotics**.  
 - **Academic Background**:  
   Pursuing a BE in **Computer Science Engineering** at **R V College of Engineering**.   
 
