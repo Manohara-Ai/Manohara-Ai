@@ -1,5 +1,5 @@
 # **Manohara**  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;AI:+Where+Curiosity+meets+Creation!!;Coding+to+Compete,+Creating+to+Innovate!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=800&lines=Welcome+to+My+GitHub!;AIML&Robotics;PillarsOfCreation)](https://git.io/typing-svg)
 
 ---
 ## **About Me**  
@@ -24,15 +24,15 @@ I'm interested in AI, ML, robotics, and embedded systems, and I enjoy working on
 **📊 GitHub Stats & Top Languages**  
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=radical&animated=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=radical&animated=true" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&hide_border=true&theme=dracula&animated=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=dracula&animated=true" alt="Top Languages" /></td>
   </tr>
 </table>
 
 <br>
 
 **🔥 GitHub Streak**  
-<img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=radical&animated=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Manohara-Ai&theme=dracula&animated=true" alt="GitHub Streak" />
 
 </div>
 
