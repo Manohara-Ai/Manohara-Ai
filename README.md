@@ -19,6 +19,6 @@ Exploring the intersections of **Artificial Intelligence**, **Machine Learning**
 - **Email**: [manohara01012005@gmail.com](mailto:manohara01012005@gmail.com)  
 - **GitHub**: [Manohara-Ai](https://github.com/Manohara-Ai)  
 - **LinkedIn**: [B M Manohara](https://www.linkedin.com/in/b-m-manohara-54044a295)  
-- **Personal Website**: [B M Manohara](https://personal-website-eight-snowy.vercel.app/)
+- **Personal Website**: [B M Manohara](https://manohara-portfolio.vercel.app/)
 
 ---
