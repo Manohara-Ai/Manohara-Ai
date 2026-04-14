@@ -1,4 +1,4 @@
-# Manohara | AI Systems and Robotics
+# Manohara
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,13 +7,12 @@
 </p>
 
 ### About Me
-**BE in Computer Science Engineering — RV College of Engineering**
+**AIML | Data Science | Embedded & Robotics | Stargazer**
 
-Focusing on the intersection of hardware and software to create deterministic and hardware-aware AI systems.
+Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, and **Robotics**.
 
-- **Current Focus:** AI Systems, Compilers, and Inference Optimization.
-- **Interests:** Robotics, Simulation, and Complex System Design.
-- **Philosophy:** Developing efficient, low-latency, and hardware-aware systems.
+- **Academic Background**: Pursuing a BE in **Computer Science Engineering** at **RV College of Engineering**.
+- **Professional Interests**: I am passionate about AI, ML, robotics, and embedded systems. I enjoy working on systems that can learn, adapt, and solve real-world problems. I believe in understanding things from the ground up and continuously improving through hands-on learning.
 
 ---
 
@@ -34,12 +33,14 @@ Focusing on the intersection of hardware and software to create deterministic an
 ### GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manohara-Ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manohara-Ai&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manohara-Ai&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manohara-Ai&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manohara-Ai&theme=tokyonight" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manohara-Ai&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manohara-Ai&theme=tokyonight&hide_border=true" height="180" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manohara-Ai&theme=tokyonight&hide_border=true" />
 </p>
 
 #### Contribution Activity
