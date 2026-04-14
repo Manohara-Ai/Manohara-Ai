@@ -7,7 +7,7 @@
 </p>
 
 ### About Me
-**AIML | Data Science | Embedded & Robotics | Stargazer**
+**AIML | Data Science | System Design | Embedded & Robotics | Stargazer**
 
 Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, and **Robotics**.
 
