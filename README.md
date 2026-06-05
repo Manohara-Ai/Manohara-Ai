@@ -7,12 +7,10 @@
 </p>
 
 ### About Me
-**AIML | Data Science | System Design | Embedded & Robotics | Stargazer**
-
-Exploring the intersections of **Artificial Intelligence**, **Machine Learning**, and **Robotics**.
+**Software & Systems Engineer | Bare Metal Programming | AIML | Robotics**
 
 - **Academic Background**: Pursuing a BE in **Computer Science Engineering** at **RV College of Engineering**.
-- **Professional Interests**: I am passionate about AI, ML, robotics, and embedded systems. I enjoy working on systems that can learn, adapt, and solve real-world problems. I believe in understanding things from the ground up and continuously improving through hands-on learning.
+- **Professional Interests**: Exploring the intersection of software and hardware. Interested in compilers, embedded systems, robotics, operating systems, and machine learning infrastructure. I enjoy building systems from first principles and understanding how they work beneath the abstraction.
 
 ---
 
