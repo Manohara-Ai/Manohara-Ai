@@ -41,11 +41,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Manohara-Ai&theme=tokyonight&hide_border=true" />
 </p>
 
-#### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manohara-Ai&show_icons=true&theme=tokyonight&hide_border=true" /> 
-</p>
-
 ---
 
 ### Connect With Me
